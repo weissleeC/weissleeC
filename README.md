@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weissleeC
-- 👀 I’m interested in swimming
+- 👀 I’m interested in React
 - 🌱 I’m currently learning 
 - 📫 How to reach me 635869972@qq.com
 
